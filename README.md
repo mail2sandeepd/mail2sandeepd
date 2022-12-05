@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mail2sandeepd
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning cloud native.
+- 🌱 I’m currently working on cloud native DevOps profile.
 - 📫 How to reach mail2sandeepd@gmail.com
 
 <!---
